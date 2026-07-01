@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eklawaya Chauhan</h1>
-<h3 align="center">Full Stack Developer | Building Modern Web Applications
-Frontend Developer | React • Next.js • TypeScript
-Software Developer | Turning Ideas into Code
-Web Developer | Passionate About Clean Code & UI
+<h3 align="center">Full Stack Developer | Building Modern Web Applications<br>
+Frontend Developer | React • Next.js • TypeScript<br>
+Software Developer | Turning Ideas into Code<br>
+Web Developer | Passionate About Clean Code & UI<br>
 Open Source Enthusiast | Lifelong Learner</h3>
 
 - 📫 How to reach me **eklawaya@gmail.com**
